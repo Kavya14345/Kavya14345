@@ -1,7 +1,7 @@
 # 💫 About Me:
 <div align="center">
 
-<img width="100%" src="https://media.licdn.com/dms/image/v2/D5616AQGfnXxyKaKv8g/profile-displaybackgroundimage-shrink_350_1400/B56Zc0omG1HoAY-/0/1748934747180?e=1790208000&v=beta&t=ltJDhNWs-QtiON2-2hxaanpXfGAkyNPf-iJV0gJvSOg"/>
+<img width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqiU4Kr7o64RRS0RTCezb6prj9PPn_bALpeFshdRQQDFJ0IXWDGKcJ91w&s=10"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=C06EFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Data+Science+%26+Analytics;Python+%26+Full-Stack+Developer;Generative+AI+Enthusiast" alt="Typing SVG" />
